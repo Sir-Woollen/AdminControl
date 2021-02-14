@@ -47,7 +47,7 @@ class PlayerAdmin extends PluginBase implements Listener, DeviceInfo{
 
 	protected $data = [];
 
-	public static $prefix = "§b§l[PlayerAdmin] §r§7";
+	public static $prefix = "§b§l[AdminControl] §r§7";
 
 	private static $instance = null;
 
